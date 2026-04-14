@@ -1,0 +1,31 @@
+Act as an SEO expert and content strategist.
+
+Create SEO blog content for a local business.
+
+Business: GlowCare Skin Clinic
+Location: Hyderabad
+
+Generate:
+
+1. 5 SEO Blog Topics
+- Based on search intent
+- Local keywords (Hyderabad)
+
+2. 1 Detailed Blog Outline
+- Include H1, H2, H3 structure
+- SEO optimized headings
+
+3. Content Cluster
+- Main topic + supporting blogs
+- Internal linking ideas
+
+4. Short Blog Introduction (100 words)
+
+Requirements:
+- SEO optimized
+- Easy to read
+- Business-focused
+- Local targeting
+
+Tone:
+Professional and helpful
